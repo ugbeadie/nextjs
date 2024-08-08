@@ -1,11 +1,12 @@
+// import Link from "next/link";
 import React from "react";
 
-const page = () => {
+const Home = () => {
   return (
-    <div>
-      <h1>Hello world!</h1>
-    </div>
+    <>
+      <h1>homepage</h1>
+    </>
   );
 };
 
-export default page;
+export default Home;
