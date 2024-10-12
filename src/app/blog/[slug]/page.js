@@ -1,4 +1,4 @@
-import React from "react";
+import styles from "./singlePost.module.css";
 
 const SinglePostPage = () => {
   return <div>SinglePostPage</div>;
